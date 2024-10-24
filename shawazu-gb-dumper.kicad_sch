@@ -7721,7 +7721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5243da75-25d3-4e52-b036-67faa3b68233")
-		(property "Reference" "TP1"
+		(property "Reference" "TP4"
 			(at 58.928 119.38 90)
 			(effects
 				(font
@@ -7770,7 +7770,7 @@
 		(instances
 			(project "shawazu-gb-dumper"
 				(path "/97e0a329-8697-49bc-b4ba-9c706c6dd8be"
-					(reference "TP1")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
